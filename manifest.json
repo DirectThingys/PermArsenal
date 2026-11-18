@@ -1,0 +1,9 @@
+{
+  "name": "PermArsenal",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/DirectThingys/PermArsenal",
+  "description": "Keep Your Emergency Weapons Arsenal Open At Any Time!",
+  "dependencies": [
+    "BepInEx-BepInExPack_IL2CPP-6.0.788",
+  ]
+}
